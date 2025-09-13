@@ -1,2 +1,1 @@
-# jojo-cn-001
-My first library as a beginner
+这是我的第一个 GitHub 仓库！
